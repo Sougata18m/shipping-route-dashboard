@@ -1,0 +1,25 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Streamlit
+# You can leave .streamlit/config.toml if you want others to have your theme
+# But ignore secrets if you add any
+.streamlit/secrets.toml
+
+# System
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore the CSV data if you don't want to upload the raw data 
+# (Remove the # below if you want to keep the data out of GitHub)
+# data/Nassau Candy Distributor.csv

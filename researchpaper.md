@@ -1,7 +1,9 @@
-# Research Paper: Factory-to-Customer Shipping Route Efficiency Analysis
+# Research Paper: Product Line Profitability & Margin Performance Analysis
 
-**Prepared for:** Nassau Candy Distributor  
-**Topic:** Automating Logistics Intelligence and Identifying Geographic Bottlenecks  
+**Organization:** Nassau Candy Distributor  
+**Project Title:** Product Line Profitability & Margin Performance Analysis  
+**Student Name:** Sougata Mondal  
+**Internship Period:** 20/1/2026 to 20/3/2026  
 
 ---
 
@@ -97,3 +99,12 @@ The implementation of the Shipping Route Efficiency Dashboard transitions Nassau
 *   **Re-evaluate Underperforming Routes:** Logistics managers should immediately review the flagged "anomalous" routes and renegotiate service level agreements (SLAs) with regional carriers, particularly out of *The Other Factory*.
 *   **Cost Optimization:** Suspend the use of premium ship modes on corridors where the predictive model shows no statistically significant improvement in lead time.
 *   **Customer Retention:** Prioritize customer success interventions for the high-value clients highlighted in the Customer Impact Analysis to prevent portfolio churn stemming from delivery frustrations.
+
+---
+
+## 7. Live Application
+You can view the interactive data dashboard powering this research directly on Streamlit Community Cloud:
+
+**➡️ [Launch the Nassau Candy Logistics Dashboard](https://shipping-route-dashboard.streamlit.app/)**
+
+*(Note: If your Streamlit Cloud URL is different, please update the link address above!)*

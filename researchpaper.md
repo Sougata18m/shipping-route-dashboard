@@ -107,4 +107,3 @@ You can view the interactive data dashboard powering this research directly on S
 
 **➡️ [Launch the Nassau Candy Logistics Dashboard](https://sougata-live-dashboard.streamlit.app/)**
 
-*(Note: If your Streamlit Cloud URL is different, please update the link address above!)*

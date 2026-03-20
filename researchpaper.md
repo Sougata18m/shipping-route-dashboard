@@ -105,6 +105,6 @@ The implementation of the Shipping Route Efficiency Dashboard transitions Nassau
 ## 7. Live Application
 You can view the interactive data dashboard powering this research directly on Streamlit Community Cloud:
 
-**➡️ [Launch the Nassau Candy Logistics Dashboard](https://shipping-route-dashboard.streamlit.app/)**
+**➡️ [Launch the Nassau Candy Logistics Dashboard](https://sougata-live-dashboard.streamlit.app/)**
 
 *(Note: If your Streamlit Cloud URL is different, please update the link address above!)*
